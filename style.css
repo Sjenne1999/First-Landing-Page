@@ -137,12 +137,12 @@ img {
 .card__boxtext
 p {
     display: flex;
-    width: 135px;
+    width: 145px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     margin-top: 6px;
-    color: lightgrey;
+    color: rgb(112, 110, 110);
 }
 
 /* 2/3 Body */
@@ -158,7 +158,7 @@ p {
 }
 
 .quote {
-    width: 700px;
+    width: 840px;
     justify-content: center;
 }
 
