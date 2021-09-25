@@ -1,5 +1,4 @@
 # First-Landing-Page
-https://sjenne1999.github.io/First-Landing-Page/
 This is my first landing page using The Odin Project
 Shout out to Alexander Shatov for the icon images Unsplash
 Shout out to Ilya Pavlov for the coding image Unsplash 
